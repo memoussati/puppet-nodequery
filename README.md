@@ -1,7 +1,7 @@
 # puppet-nodequery
 
 [![Puppet
-Forge](http://img.shields.io/puppetforge/v/threesquared/nodequery.svg)](https://forge.puppetlabs.com/threesquared/nodequery)
+Forge](http://img.shields.io/puppetforge/v/threesquared/nodequery.svg)](https://forge.puppetlabs.com/threesquared/nodequery) [![Puppet Forge](https://img.shields.io/puppetforge/dt/threesquared/nodequery.svg?maxAge=2592000)]()
 
 ## Overview
 
