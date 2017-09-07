@@ -48,7 +48,6 @@ class nodequery (
     path    => '/usr/local/bin:/bin:/usr/bin',
     creates => '/etc/nodequery/nq-agent.sh',
     require => [
-        Package['wget'],
         File['/etc/nodequery']
     ]
   }
